@@ -1,7 +1,9 @@
 streamlit
+streamlit-folium
 pandas
 folium
 plotly.express
 openpyxl
 requests
 css
+
